@@ -1,0 +1,2 @@
+curl  "http://localhost:8080/location/search/?query=london" | jq .
+curl  "http://localhost:8080/location/44418/" | jq .

@@ -1,0 +1,15 @@
+{
+  "name": "utn_async_js",
+  "version": "1.0.0",
+  "description": "Javascript examples on async programming",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Silberkasten",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "rxjs": "^6.5.2"
+  }
+}
